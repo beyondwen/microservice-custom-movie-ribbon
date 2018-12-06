@@ -3,9 +3,6 @@ server:
 spring:
   application:
     name: microservice-custom-movie
-eureka:
-  client:
-    service-url:
-      defaultZone: http://peer1:9051/eureka/
-  instance:
-    prefer-ip-address: true
+microservice-provider-user:
+  ribbon:
+    listOfServers: localhost:9080,localhost:9081
