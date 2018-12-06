@@ -1,6 +1,6 @@
-package com.wenhao.microservice.microservicecustommovieribbon.dao;
+package com.wenhao.microservice.microservicecustommovieribbon.microservice.dao;
 
-import com.wenhao.microservice.microservicecustommovieribbon.domain.User;
+import com.wenhao.microservice.microservicecustommovieribbon.microservice.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

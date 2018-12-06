@@ -1,7 +1,7 @@
-package com.wenhao.microservice.microservicecustommovieribbon.controller;
+package com.wenhao.microservice.microservicecustommovieribbon.microservice.controller;
 
 
-import com.wenhao.microservice.microservicecustommovieribbon.domain.User;
+import com.wenhao.microservice.microservicecustommovieribbon.microservice.domain.User;
 
 
 import org.slf4j.Logger;

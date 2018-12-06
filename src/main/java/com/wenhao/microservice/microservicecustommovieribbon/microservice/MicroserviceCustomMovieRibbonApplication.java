@@ -1,4 +1,4 @@
-package com.wenhao.microservice.microservicecustommovieribbon;
+package com.wenhao.microservice.microservicecustommovieribbon.microservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
